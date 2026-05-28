@@ -6,7 +6,7 @@ authors = ["Ines Muic <ines.muic@cirus.dhz.hr>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.14"
 numpy = "^2.4.0"
 
 [build-system]
